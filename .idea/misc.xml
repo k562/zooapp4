@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio/Android projects 3.0/zooapp4/app/src/main/res/drawable/layoutdesign2.xml" value="0.1795" />
+        <entry key="..\:/Android studio/Android projects 3.0/zooapp4/app/src/main/res/layout/activity_listdesign3.xml" value="0.25" />
+        <entry key="..\:/Android studio/Android projects 3.0/zooapp4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android studio/Android projects 3.0/zooapp4/app/src/main/res/layout/listdesign.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
